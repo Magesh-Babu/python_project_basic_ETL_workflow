@@ -1,0 +1,9 @@
+• Utmaningar du haft under arbetet samt hur du hanterat dem.
+Att hitta data är lite förvirrande men med hjälp av Kaggle löste jag det.
+Att skriva test skript är också förvirrande, men med hjälp av klassuppgifter och internetresurser löste jag det.
+
+• Vilket betyg du anser att du skall ha och varför.
+Jag klarade kravet för kunskapstestbetyget så jag tror att jag kommer att klara bekvämt
+
+• Något du vill lyfta fram till Linus och Antonio?
+Inget ni båda gör ett bra jobb. Tack för allt.

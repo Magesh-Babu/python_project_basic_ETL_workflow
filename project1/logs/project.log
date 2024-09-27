@@ -1,0 +1,13 @@
+[2024-09-27 17:20:32,474][INFO] Importing data
+[2024-09-27 17:20:32,691][INFO] Processing resolution column
+[2024-09-27 17:20:32,695][INFO] Processing display type column
+[2024-09-27 17:20:32,697][INFO] Processing Weight column
+[2024-09-27 17:20:32,698][INFO] Processing Ram column
+[2024-09-27 17:20:32,700][INFO] Processing OpSys column
+[2024-09-27 17:20:32,702][INFO] Converting data types
+[2024-09-27 17:20:32,705][INFO] Database connection established successfully.
+[2024-09-27 17:20:32,705][INFO] Ensuring table 'laptop_new' exists.
+[2024-09-27 17:20:32,714][INFO] Table 'laptop_new' created successfully.
+[2024-09-27 17:20:32,714][INFO] Inserting data into 'laptop_new' table.
+[2024-09-27 17:20:33,212][INFO] Data inserted into 'laptop_new' successfully.
+[2024-09-27 17:20:33,212][INFO] Database connection closed.
